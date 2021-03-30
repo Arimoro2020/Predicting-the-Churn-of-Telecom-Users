@@ -17,6 +17,8 @@ Summary of Results: The XGBoost Model was chosen because it has the highest test
 <img width="872" alt="Screen Shot 2021-03-30 at 2 02 25 PM" src="https://user-images.githubusercontent.com/73043768/113042367-b8e78280-9160-11eb-9363-6e42821ee41b.png">
 
 
+Metadata:
+
 
 <img width="838" alt="12B3593B-3B7C-454B-B064-F7DAFD03437B" src="https://user-images.githubusercontent.com/73043768/113038688-66a46280-915c-11eb-8781-cfe179993f4d.png">
 
