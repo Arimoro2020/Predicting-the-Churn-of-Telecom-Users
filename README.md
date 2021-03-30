@@ -14,6 +14,7 @@ Model Building: A Total of four (4) models using KNN, Random Forest, XGBoost, an
 
 Summary of Results:
 
+<img width="872" alt="Screen Shot 2021-03-30 at 2 02 25 PM" src="https://user-images.githubusercontent.com/73043768/113042367-b8e78280-9160-11eb-9363-6e42821ee41b.png">
 
 
 
