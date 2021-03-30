@@ -12,7 +12,7 @@ Data Cleansing & Exploratory Data Analysis: Although no 'missing values' in the 
 
 Model Building: A Total of four (4) models using KNN, Random Forest, XGBoost, and Tensorflow's Keras Neural Network were used for the classification problem. The first 3 sets involved the use of GridSearch with Cross Vadilidation to search for the model's optimal hyperparameters. The neural network model was built with 2 hidden layers and a callback for early stopping to prevent overfitting.
 
-Summary of Results:
+Summary of Results: The XGBoost Model was chosen because it has the highest testing accuracy as shown below:
 
 <img width="872" alt="Screen Shot 2021-03-30 at 2 02 25 PM" src="https://user-images.githubusercontent.com/73043768/113042367-b8e78280-9160-11eb-9363-6e42821ee41b.png">
 
