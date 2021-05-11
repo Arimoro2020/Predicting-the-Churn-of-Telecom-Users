@@ -1,5 +1,5 @@
 # Predicting-the-Churn-of-Telecom-Users
-About
+
 Macine Learning Model & Exploratory Data Analysis that predicts Telecom users who would churn, and that determines which services/products could influence their decision to churn
 
 
